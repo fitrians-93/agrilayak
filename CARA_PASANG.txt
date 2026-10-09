@@ -1,0 +1,13 @@
+CARA PASANG AGRILAYAK DI HP (SEKALI PAKAI INTERNET, SETELAH ITU OFFLINE)
+
+1. Unggah seluruh isi folder ini ke hosting statis gratis berbasis HTTPS
+   (misalnya GitHub Pages, Netlify Drop, atau Cloudflare Pages).
+2. Buka alamat situs itu di Chrome (Android) atau Safari (iPhone) saat ada internet.
+3. Android: menu titik tiga > "Instal aplikasi" / "Tambahkan ke layar utama".
+   iPhone: tombol Bagikan > "Tambah ke Layar Utama".
+4. Buka aplikasinya sekali sampai tampil penuh. Sesudah itu bisa dipakai tanpa internet.
+
+Pindah data dari laptop: di laptop tekan Backup, kirim file cadangan ke HP (WhatsApp/Drive),
+lalu di HP tekan Restore dan pilih file itu.
+
+Jika index.html diganti, naikkan angka VERSI di sw.js agar HP memuat versi terbaru.
